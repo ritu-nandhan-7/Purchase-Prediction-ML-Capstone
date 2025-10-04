@@ -29,10 +29,3 @@ The dataset used in this project is sourced from Kaggle and includes:
 ## Results
 
 The models developed provide insights into sales trends and can predict future sales with reasonable accuracy. These predictions can assist in optimizing inventory management and marketing efforts.
-
-## How to Run
-
-1. Clone this repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Open `ecommerce_sales_prediction.ipynb` in Jupyter Notebook.
-4. Run the cells sequentially to reproduce the analy
